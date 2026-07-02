@@ -68,5 +68,118 @@ Pretrained models for satellite imagery.
 - Satellite Image Processing
 - Remote Sensing
 
+## Tech Stack
+
+### Programming Languages
+- Python
+- C++ (Basic)
+- SQL
+- Bash
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Vision Transformers (ViT)
+- Foundation Models
+- Diffusion Models
+- Self-Supervised Learning
+- Transfer Learning
+
+### Frameworks
+- PyTorch
+- TensorFlow
+- PyTorch Lightning
+- Hugging Face Transformers
+- Hugging Face Datasets
+- TIMM
+- OpenMMLab (MMCV, MMSegmentation, MMDetection)
+
+### Computer Vision
+- OpenCV
+- Albumentations
+- Pillow
+- Scikit-image
+
+### Remote Sensing & GIS
+- GDAL
+- Rasterio
+- GeoPandas
+- Shapely
+- Fiona
+- Earth Engine API
+- Sentinel Hub
+- xarray
+- rioxarray
+
+### Geospatial Platforms
+- Google Earth Engine
+- QGIS
+- ArcGIS Pro
+- ESA SNAP
+
+### Data Science
+- NumPy
+- Pandas
+- SciPy
+- Scikit-learn
+
+### Visualization
+- Matplotlib
+- Plotly
+- TensorBoard
+
+### MLOps
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- MLflow
+- Weights & Biases
+
+### Cloud Computing
+- Google Colab
+- Kaggle
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+
+### Development Tools
+- VS Code
+- Jupyter Notebook
+- JupyterLab
+- Linux
+- Conda
+
+### Earth Observation Datasets
+- Sentinel-1
+- Sentinel-2
+- Landsat
+- MODIS
+- PlanetScope
+- NAIP
+- EuroSAT
+- SpaceNet
+- BigEarthNet
+- LoveDA
+- DeepGlobe
+
+### Research Areas
+- Image Classification
+- Semantic Segmentation
+- Object Detection
+- Change Detection
+- Image Super Resolution
+- Image Captioning
+- Multimodal Learning
+- Remote Sensing Foundation Models
+- Geospatial AI
+- Climate AI
+- Urban Analytics
+- Precision Agriculture
+- Glacier Monitoring
+- Forest Monitoring
+- Disaster Management
 
 
