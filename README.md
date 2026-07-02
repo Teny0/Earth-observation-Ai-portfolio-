@@ -1,6 +1,5 @@
 # Earth-observation-Ai-portfolio-
 
-# Earth Observation AI Portfolio
 
 A portfolio showcasing projects, notes, implementations, and research in Computer Vision, Remote Sensing, Vision Transformers, Foundation Models, and Generative AI.
 
